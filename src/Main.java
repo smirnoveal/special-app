@@ -6,8 +6,10 @@ public class Main {
         SimpleDateFormat formatter = new SimpleDateFormat("yyyy/MM/dd");
         System.out.println(formatter.format(new Date()));
 
-        System.out.println("89998654646+6+");
-        System.out.println("564654646546544");
+
+        System.out.println("89998156456");
+        System.out.println("89998135465");
+
 
 
     }
