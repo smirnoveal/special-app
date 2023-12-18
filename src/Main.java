@@ -11,6 +11,8 @@ public class Main {
 
         System.out.println("Добавим еще кнопку");
 
+        System.out.println("Изменения из сервера");
+
 
 
         System.out.println("controlwork 3.9");
