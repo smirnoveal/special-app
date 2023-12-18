@@ -7,6 +7,8 @@ public class Main {
         System.out.println(formatter.format(new Date()));
         System.out.println("Выберите пунктдоставки");
 
+        System.out.println("Добавим кнопку");
+
 
 
         System.out.println("controlwork 3.9");
