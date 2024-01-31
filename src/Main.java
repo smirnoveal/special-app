@@ -7,8 +7,10 @@ public class Main {
         System.out.println(formatter.format(new Date()));
 
 
-        System.out.println("this is too changes");
-        System.out.println("and this too");
+
+        System.out.println("controlwork 3.9");
+         System.out.println("changes");
+
 
 
 
